@@ -1,4 +1,4 @@
-## Hey there
+## Hey there 👋
 
 I'm Akah Divine, a Data Analyst based in Nigeria.
 
@@ -16,11 +16,11 @@ This profile is where I’ll be sharing my projects, experiments, and what I’m
 
 ## A Bit About Me
 
-- Interested in data, tech, and creativity  
-- Learning more about Data Engineering  
-- Built a Blockchain-Based Voting System  
-- I like building things that are simple and useful  
-- I'm a football fan  
+- 📊 Interested in data, tech, and creativity  
+- 🚀 Learning more about Data Engineering  
+- 🎨 Interested in motion design  
+- 🛠️ I like building practical solutions that solve real problems  
+- ⚽ I'm a football fan  
 
 ## Contact Me
 
