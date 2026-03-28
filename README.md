@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hey there
 
-<!--
-**AkahDivine/AkahDivine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akah Divine, a Data Analyst based in Nigeria.
 
-Here are some ideas to get you started:
+I work with data to find insights and build simple, useful dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm taking a Data Engineering course at ALX and working on personal projects to improve my skills.
+
+This profile is where I’ll be sharing my projects, experiments, and what I’m currently learning.
+
+## Tools & Tech
+
+- SQL  
+- Excel  
+- Power BI  
+
+## A Bit About Me
+
+- Interested in data, tech, and creativity  
+- Learning more about Data Engineering  
+- Built a Blockchain-Based Voting System  
+- I like building things that are simple and useful  
+- I'm a football fan  
+
+## Contact Me
+
+- Email: [Email Me](mailto:akahdivine04@gmail.com)
+- LinkedIn: [My Profile](www.linkedin.com/in/akahdivine)  
