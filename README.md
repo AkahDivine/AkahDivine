@@ -25,4 +25,4 @@ This profile is where I’ll be sharing my projects, experiments, and what I’m
 ## Contact Me
 
 - Email: [Email Me](mailto:akahdivine04@gmail.com)
-- LinkedIn: [My Profile](www.linkedin.com/in/akahdivine)  
+- LinkedIn: [My Profile](https://www.linkedin.com/in/akahdivine)  
